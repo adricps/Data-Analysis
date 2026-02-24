@@ -1,4 +1,3 @@
-# Eye tracking study
 
 ## The effects of caffeine consumption on attention during reading
 
